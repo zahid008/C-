@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630289704 source:f:\new folder\c++\node\src\node.cpp
+	"node.h"
+
+1630289704 f:\new folder\c++\node\include\node.h
+
